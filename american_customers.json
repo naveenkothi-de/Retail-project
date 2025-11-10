@@ -1,0 +1,452 @@
+[
+  {
+    "customer_id": 101,
+    "first_name": "Matthew",
+    "last_name": "Garcia",
+    "email": "matthew.garcia@outlook.com",
+    "phone": "8714701897",
+    "city": "Philadelphia",
+    "registration_date": "2023-07-10"
+  },
+  {
+    "customer_id": 102,
+    "first_name": "Mia",
+    "last_name": "Rodriguez",
+    "email": "mia.rodriguez@yahoo.com",
+    "phone": "8276076814",
+    "city": "Charlotte",
+    "registration_date": "2023-03-04"
+  },
+  {
+    "customer_id": 103,
+    "first_name": "James",
+    "last_name": "Lopez",
+    "email": "james.lopez@example.com",
+    "phone": "2172838875",
+    "city": "San Antonio",
+    "registration_date": "2023-12-21"
+  },
+  {
+    "customer_id": 104,
+    "first_name": "Michael",
+    "last_name": "Rodriguez",
+    "email": "michael.rodriguez@outlook.com",
+    "phone": "6069775083",
+    "city": "San Francisco",
+    "registration_date": "2023-09-03"
+  },
+  {
+    "customer_id": 105,
+    "first_name": "James",
+    "last_name": "Lopez",
+    "email": "james.lopez@yahoo.com",
+    "phone": "2324349445",
+    "city": "Philadelphia",
+    "registration_date": "2023-04-13"
+  },
+  {
+    "customer_id": 106,
+    "first_name": "Sophia",
+    "last_name": "Miller",
+    "email": "sophia.miller@hotmail.com",
+    "phone": "8989940789",
+    "city": "Charlotte",
+    "registration_date": "2023-04-21"
+  },
+  {
+    "customer_id": 107,
+    "first_name": "Christopher",
+    "last_name": "Miller",
+    "email": "christopher.miller@yahoo.com",
+    "phone": "4622881417",
+    "city": "Columbus",
+    "registration_date": "2024-01-13"
+  },
+  {
+    "customer_id": 108,
+    "first_name": "Isabella",
+    "last_name": "Jackson",
+    "email": "isabella.jackson@yahoo.com",
+    "phone": "7565725253",
+    "city": "Dallas",
+    "registration_date": "2023-03-31"
+  },
+  {
+    "customer_id": 109,
+    "first_name": "Jessica",
+    "last_name": "Martinez",
+    "email": "jessica.martinez@gmail.com",
+    "phone": "4367571893",
+    "city": "San Francisco",
+    "registration_date": "2023-09-08"
+  },
+  {
+    "customer_id": 110,
+    "first_name": "Ava",
+    "last_name": "Smith",
+    "email": "ava.smith@yahoo.com",
+    "phone": "5089010262",
+    "city": "Philadelphia",
+    "registration_date": "2023-11-10"
+  },
+  {
+    "customer_id": 111,
+    "first_name": "Ella",
+    "last_name": "Thomas",
+    "email": "ella.thomas@yahoo.com",
+    "phone": "3681308258",
+    "city": "New York",
+    "registration_date": "2023-04-12"
+  },
+  {
+    "customer_id": 112,
+    "first_name": "Isabella",
+    "last_name": "Lopez",
+    "email": "isabella.lopez@outlook.com",
+    "phone": "6296958171",
+    "city": "Columbus",
+    "registration_date": "2024-03-07"
+  },
+  {
+    "customer_id": 113,
+    "first_name": "Ethan",
+    "last_name": "Anderson",
+    "email": "ethan.anderson@outlook.com",
+    "phone": "4360124213",
+    "city": "Phoenix",
+    "registration_date": "2023-08-01"
+  },
+  {
+    "customer_id": 114,
+    "first_name": "Joseph",
+    "last_name": "Martin",
+    "email": "joseph.martin@example.com",
+    "phone": "6497777049",
+    "city": "Los Angeles",
+    "registration_date": "2023-09-02"
+  },
+  {
+    "customer_id": 115,
+    "first_name": "Christopher",
+    "last_name": "Smith",
+    "email": "christopher.smith@gmail.com",
+    "phone": "4302302545",
+    "city": "Houston",
+    "registration_date": "2023-08-04"
+  },
+  {
+    "customer_id": 116,
+    "first_name": "Sophia",
+    "last_name": "Taylor",
+    "email": "sophia.taylor@gmail.com",
+    "phone": "8420633148",
+    "city": "Columbus",
+    "registration_date": "2024-01-01"
+  },
+  {
+    "customer_id": 117,
+    "first_name": "Mia",
+    "last_name": "Wilson",
+    "email": "mia.wilson@outlook.com",
+    "phone": "5781772643",
+    "city": "San Jose",
+    "registration_date": "2023-05-17"
+  },
+  {
+    "customer_id": 118,
+    "first_name": "Isabella",
+    "last_name": "Anderson",
+    "email": "isabella.anderson@hotmail.com",
+    "phone": "7089753707",
+    "city": "San Diego",
+    "registration_date": "2024-01-14"
+  },
+  {
+    "customer_id": 119,
+    "first_name": "William",
+    "last_name": "Martinez",
+    "email": "william.martinez@hotmail.com",
+    "phone": "3046472895",
+    "city": "Columbus",
+    "registration_date": "2024-03-05"
+  },
+  {
+    "customer_id": 120,
+    "first_name": "Ella",
+    "last_name": "Davis",
+    "email": "ella.davis@hotmail.com",
+    "phone": "7813212161",
+    "city": "Charlotte",
+    "registration_date": "2024-01-29"
+  },
+  {
+    "customer_id": 121,
+    "first_name": "Matthew",
+    "last_name": "Thomas",
+    "email": "matthew.thomas@yahoo.com",
+    "phone": "8854583952",
+    "city": "Phoenix",
+    "registration_date": "2023-10-08"
+  },
+  {
+    "customer_id": 122,
+    "first_name": "Abigail",
+    "last_name": "Johnson",
+    "email": "abigail.johnson@yahoo.com",
+    "phone": "7943631383",
+    "city": "Chicago",
+    "registration_date": "2023-04-16"
+  },
+  {
+    "customer_id": 123,
+    "first_name": "David",
+    "last_name": "Hernandez",
+    "email": "david.hernandez@hotmail.com",
+    "phone": "6789147283",
+    "city": "San Diego",
+    "registration_date": "2023-07-04"
+  },
+  {
+    "customer_id": 124,
+    "first_name": "Amelia",
+    "last_name": "Gonzalez",
+    "email": "amelia.gonzalez@gmail.com",
+    "phone": "3509033997",
+    "city": "Dallas",
+    "registration_date": "2023-08-26"
+  },
+  {
+    "customer_id": 125,
+    "first_name": "William",
+    "last_name": "Miller",
+    "email": "william.miller@yahoo.com",
+    "phone": "2974516973",
+    "city": "Houston",
+    "registration_date": "2024-02-16"
+  },
+  {
+    "customer_id": 126,
+    "first_name": "Amelia",
+    "last_name": "Davis",
+    "email": "amelia.davis@outlook.com",
+    "phone": "5349912368",
+    "city": "San Diego",
+    "registration_date": "2023-04-09"
+  },
+  {
+    "customer_id": 127,
+    "first_name": "Christopher",
+    "last_name": "Taylor",
+    "email": "christopher.taylor@gmail.com",
+    "phone": "5352410161",
+    "city": "Los Angeles",
+    "registration_date": "2023-11-02"
+  },
+  {
+    "customer_id": 128,
+    "first_name": "Isabella",
+    "last_name": "Thomas",
+    "email": "isabella.thomas@yahoo.com",
+    "phone": "5166704967",
+    "city": "Columbus",
+    "registration_date": "2023-12-19"
+  },
+  {
+    "customer_id": 129,
+    "first_name": "Grace",
+    "last_name": "Thomas",
+    "email": "grace.thomas@yahoo.com",
+    "phone": "8099210686",
+    "city": "San Antonio",
+    "registration_date": "2023-05-15"
+  },
+  {
+    "customer_id": 130,
+    "first_name": "Jessica",
+    "last_name": "Johnson",
+    "email": "jessica.johnson@gmail.com",
+    "phone": "9394797175",
+    "city": "Houston",
+    "registration_date": "2024-02-07"
+  },
+  {
+    "customer_id": 131,
+    "first_name": "David",
+    "last_name": "Martin",
+    "email": "david.martin@hotmail.com",
+    "phone": "5446693354",
+    "city": "Dallas",
+    "registration_date": "2023-09-30"
+  },
+  {
+    "customer_id": 132,
+    "first_name": "William",
+    "last_name": "Jackson",
+    "email": "william.jackson@outlook.com",
+    "phone": "6890475720",
+    "city": "Charlotte",
+    "registration_date": "2024-03-04"
+  },
+  {
+    "customer_id": 133,
+    "first_name": "Jessica",
+    "last_name": "Gonzalez",
+    "email": "jessica.gonzalez@hotmail.com",
+    "phone": "9878622977",
+    "city": "Columbus",
+    "registration_date": "2023-04-18"
+  },
+  {
+    "customer_id": 134,
+    "first_name": "Daniel",
+    "last_name": "Rodriguez",
+    "email": "daniel.rodriguez@outlook.com",
+    "phone": "6547863955",
+    "city": "New York",
+    "registration_date": "2023-05-01"
+  },
+  {
+    "customer_id": 135,
+    "first_name": "Amelia",
+    "last_name": "Lopez",
+    "email": "amelia.lopez@example.com",
+    "phone": "6252458074",
+    "city": "Houston",
+    "registration_date": "2023-08-25"
+  },
+  {
+    "customer_id": 136,
+    "first_name": "Alexander",
+    "last_name": "Smith",
+    "email": "alexander.smith@hotmail.com",
+    "phone": "5571722957",
+    "city": "Charlotte",
+    "registration_date": "2024-01-08"
+  },
+  {
+    "customer_id": 137,
+    "first_name": "Robert",
+    "last_name": "Jackson",
+    "email": "robert.jackson@outlook.com",
+    "phone": "4129946186",
+    "city": "San Diego",
+    "registration_date": "2023-11-07"
+  },
+  {
+    "customer_id": 138,
+    "first_name": "Ella",
+    "last_name": "Johnson",
+    "email": "ella.johnson@yahoo.com",
+    "phone": "4232598818",
+    "city": "Los Angeles",
+    "registration_date": "2023-11-29"
+  },
+  {
+    "customer_id": 139,
+    "first_name": "Ava",
+    "last_name": "Wilson",
+    "email": "ava.wilson@yahoo.com",
+    "phone": "6834473146",
+    "city": "Houston",
+    "registration_date": "2023-08-20"
+  },
+  {
+    "customer_id": 140,
+    "first_name": "Olivia",
+    "last_name": "Jackson",
+    "email": "olivia.jackson@example.com",
+    "phone": "6396686867",
+    "city": "Los Angeles",
+    "registration_date": "2023-02-22"
+  },
+  {
+    "customer_id": 141,
+    "first_name": "Ethan",
+    "last_name": "Brown",
+    "email": "ethan.brown@gmail.com",
+    "phone": "3980393563",
+    "city": "Jacksonville",
+    "registration_date": "2023-01-20"
+  },
+  {
+    "customer_id": 142,
+    "first_name": "Michael",
+    "last_name": "Davis",
+    "email": "michael.davis@outlook.com",
+    "phone": "5055003771",
+    "city": "Charlotte",
+    "registration_date": "2024-02-23"
+  },
+  {
+    "customer_id": 143,
+    "first_name": "Abigail",
+    "last_name": "Brown",
+    "email": "abigail.brown@gmail.com",
+    "phone": "9695735451",
+    "city": "Philadelphia",
+    "registration_date": "2023-05-21"
+  },
+  {
+    "customer_id": 144,
+    "first_name": "Sarah",
+    "last_name": "Martinez",
+    "email": "sarah.martinez@yahoo.com",
+    "phone": "8120380674",
+    "city": "San Antonio",
+    "registration_date": "2023-05-06"
+  },
+  {
+    "customer_id": 145,
+    "first_name": "Emily",
+    "last_name": "Anderson",
+    "email": "emily.anderson@outlook.com",
+    "phone": "5091354728",
+    "city": "Austin",
+    "registration_date": "2024-01-17"
+  },
+  {
+    "customer_id": 146,
+    "first_name": "Daniel",
+    "last_name": "Jones",
+    "email": "daniel.jones@gmail.com",
+    "phone": "8211217292",
+    "city": "San Jose",
+    "registration_date": "2023-10-04"
+  },
+  {
+    "customer_id": 147,
+    "first_name": "Olivia",
+    "last_name": "Johnson",
+    "email": "olivia.johnson@yahoo.com",
+    "phone": "6692459113",
+    "city": "Houston",
+    "registration_date": "2023-03-06"
+  },
+  {
+    "customer_id": 148,
+    "first_name": "James",
+    "last_name": "Miller",
+    "email": "james.miller@outlook.com",
+    "phone": "2338935676",
+    "city": "Houston",
+    "registration_date": "2023-07-19"
+  },
+  {
+    "customer_id": 149,
+    "first_name": "Ethan",
+    "last_name": "Thomas",
+    "email": "ethan.thomas@outlook.com",
+    "phone": "4764677613",
+    "city": "San Antonio",
+    "registration_date": "2023-02-01"
+  },
+  {
+    "customer_id": 150,
+    "first_name": "Harper",
+    "last_name": "Williams",
+    "email": "harper.williams@yahoo.com",
+    "phone": "8216710064",
+    "city": "San Jose",
+    "registration_date": "2023-05-05"
+  }
+]
