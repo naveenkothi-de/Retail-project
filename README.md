@@ -14,9 +14,9 @@ Architecture Flow:
 	•	REST API (JSON) → Customer data
 	2.	Data loaded into ADLS (Data Lake).
 	3.	Data processed through Databricks notebooks into three layers:
-	•	🟤 Bronze: Raw ingested data (no transformation)
-	•	⚪ Silver: Cleaned, joined, and validated data
-	•	🟡 Gold: Aggregated and business-ready data (e.g., sales summary)
+	• Bronze: Raw ingested data (no transformation)
+	• Silver: Cleaned, joined, and validated data
+	• Gold: Aggregated and business-ready data (e.g., sales summary)
 	4.	Final data visualized in Power BI dashboards.
 
   Transformation Logic (Databricks)
@@ -34,11 +34,11 @@ Tech Stack
 
  Key Outcomes
 
-✅ Automated ingestion from SQL DB and APIs
-✅ Structured data lake zones (Bronze → Silver → Gold)
-✅ Data quality and cleansing pipeline
-✅ Analytical dashboards for sales insights
-✅ Cloud-native, scalable architecture
+1. Automated ingestion from SQL DB and APIs
+2. Structured data lake zones (Bronze → Silver → Gold)
+3. Data quality and cleansing pipeline
+4. Analytical dashboards for sales insights
+5. Cloud-native, scalable architecture
 
 Next Steps / Enhancements
 	•	Add Data Quality Checks using Great Expectations
