@@ -46,8 +46,8 @@ Next Steps / Enhancements
 	•	Integrate with Azure Synapse or Snowflake for advanced analytics
 	•	Enable Real-time streaming with Azure Event Hub / Kafka
 
-<img width="1280" height="800" alt="Screenshot 2025-11-09 at 10 58 42 pm" src="https://github.com/user-attachments/assets/ea27501f-d808-46cf-8ee0-4546a4ab59d4" />
-<img width="1280" height="800" alt="Screenshot 2025-11-09 at 10 58 51 pm" src="https://github.com/user-attachments/assets/6eae394d-ca31-477e-9820-7e9af7417495" />
+
+
 <img width="1280" height="800" alt="Screenshot 2025-11-09 at 10 59 30 pm" src="https://github.com/user-attachments/assets/79fe3892-f6a0-411b-8e29-344b6a69024c" />
 <img width="1280" height="800" alt="Screenshot 2025-11-09 at 11 00 10 pm" src="https://github.com/user-attachments/assets/3a2738eb-45c1-4baa-9587-14f389c935d0" />
 <img width="1280" height="800" alt="Screenshot 2025-11-09 at 11 00 21 pm" src="https://github.com/user-attachments/assets/901a6062-5d35-41c3-9e22-4bcc0e034443" />
