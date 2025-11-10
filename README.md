@@ -1,4 +1,4 @@
-This project demonstrates a Retail Data Engineering Pipeline built on Microsoft Azure, integrating multiple data sources, data lake zones, Databricks transformations, and Power BI analytics.
+This project demonstrates a Retail Data Engineering Pipeline built on Microsoft Azure, integrating multiple data sources, data lake zones, Databricks transformations and Power BI analytics.
 
 It automates the entire data flow — from ingestion to insights — for a retail client using modern cloud data engineering practices.
 
